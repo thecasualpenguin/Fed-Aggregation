@@ -1,0 +1,32 @@
+{
+	"gpu" : "1",
+
+	"type" : "mnist",
+	
+	"num_of_clients" : 4,
+	
+	"cfraction" : 1,
+	
+	"local_epoch" : 3,
+	
+	"batch_size" : 100,
+	
+	"model_name" : "cifar_2nn",
+	
+	"learning_rate" : 0.005,
+	
+	"val_freq" : 1,
+	
+	"save_freq" : 100,
+	
+	"num_comm" : 5,
+	
+	"save_path" : "./checkpoints",
+	
+	"IID" : true,
+
+	"sigma" : 0.02,
+	
+	"noise" : 0
+	
+}

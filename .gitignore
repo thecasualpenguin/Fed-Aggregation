@@ -30,4 +30,5 @@ Temporary Items
 *.npy
 data/
 __pycache__/
+breadboard/
 

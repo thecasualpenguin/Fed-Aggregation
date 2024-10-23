@@ -29,5 +29,7 @@ Temporary Items
 .python-version
 *.npy
 data/
+output/
 __pycache__/
+breadboard/
 

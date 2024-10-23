@@ -27,3 +27,8 @@ Temporary Items
 
 # Python local environments
 .python-version
+*.npy
+data/
+__pycache__/
+breadboard/
+
